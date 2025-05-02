@@ -3,7 +3,7 @@
 <!-- Connect with Me -->
 [![Gmail](https://img.shields.io/badge/-Email-c14438?style=flat&logo=gmail&logoColor=white)](mailto:martinezlykamae22@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-2072AF?style=flat&logo=linkedin)](https://linkedin.com/in/lyka-martinez)
-[![Facebook](https://img.shields.io/badge/-Facebook-00416A?style=flat&logo=facebook)](https://www.instagram.com/lykmmrtnz/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-1B1B1B?style=flat&logo=github)]()
 
 
 <!--
