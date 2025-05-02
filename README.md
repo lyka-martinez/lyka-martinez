@@ -2,15 +2,12 @@
 
 <!-- Connect with Me -->
 [![Gmail](https://img.shields.io/badge/-Email-c14438?style=flat&logo=gmail&logoColor=white)](mailto:martinezlykamae22@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yourusername)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat&logo=github)](https://yourportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-2072AF?style=flat&logo=linkedin)](https://linkedin.com/in/lyka-martinez)
+[![Facebook](https://img.shields.io/badge/-Facebook-00416A?style=flat&logo=facebook)](https://www.instagram.com/lykmmrtnz/)
 
 
 <!--
-**lyka-martinez/lyka-martinez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
