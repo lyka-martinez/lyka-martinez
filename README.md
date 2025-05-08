@@ -44,6 +44,8 @@ const lyka = {
   GitHub Analytics
 </h2>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lyka-martinez&show_icons=true&hide_title=false&theme=dracula&hide_border=true&rank_icon=github&bg_color=00000000)
-![GitHub Stats](https://github-readme-streak-stats-three-umber.vercel.app?user=lyka-martinez&theme=dracula&hide_border=true&background=00000000)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lyka-martinez&layout=compact&theme=dracula&hide_border=true&bg_color=00000000)
+<p>
+  <img width="46%" src="https://github-readme-stats.vercel.app/api?username=lyka-martinez&show_icons=true&hide_title=false&theme=dracula&hide_border=true&rank_icon=github&bg_color=00000000"/>
+  <img width="49%" src="https://github-readme-streak-stats-three-umber.vercel.app?user=lyka-martinez&theme=dracula&hide_border=true&background=00000000"/>
+  <img width="29.7%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyka-martinez&layout=compact&theme=dracula&hide_border=true&bg_color=00000000"/>
+</p>
