@@ -17,7 +17,7 @@ const lyka = {
   education :'Pamantasan ng Lungsod ng Pasig (PLP)',
   interest  :['Full Stack Development', 'Software Engineering', 'DevOps'],
   current   :'Learning & Working on building real-world projects',
-  tech stack: {
+  tech: {
     backend :['Python', 'PHP', 'SQL', 'Java'],
     frontend:['jQuery', 'React.js', 'Tailwind CSS']
   }
