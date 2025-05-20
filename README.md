@@ -18,8 +18,8 @@ const lyka = {
   interest  :['Full Stack Development', 'Software Engineering', 'DevOps'],
   current   :'Learning & Working on building real-world projects',
   tech: {
-    backend :['Python', 'PHP', 'SQL', 'Java'],
-    frontend:['jQuery', 'React.js', 'Tailwind CSS']
+    frontend:['jQuery', 'React.js', 'Tailwind CSS'],
+    backend :['Python', 'PHP', 'SQL', 'Java']
   }
 };
 ```
