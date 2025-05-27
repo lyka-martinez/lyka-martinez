@@ -4,7 +4,7 @@
 <!-- Connect with Me -->
 [![Gmail](https://img.shields.io/badge/-Email-c14438?style=flat&logo=gmail&logoColor=white)](mailto:martinezlykamae22@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-2072AF?style=flat&logo=linkedin)](https://linkedin.com/in/lyka-martinez)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-1B1B1B?style=flat&logo=github)]()
+[![Portfolio](https://img.shields.io/badge/-Portfolio-1B1B1B?style=flat&logo=github)](https://lyka-martinez.github.io/portfolio-template/)
 
 
 <h2>
