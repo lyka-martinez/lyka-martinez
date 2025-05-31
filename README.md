@@ -14,12 +14,13 @@
 
 ```js
 const lyka = {
+  name      :'Lyka Martinez',
   education :'Pamantasan ng Lungsod ng Pasig (PLP)',
-  interest  :['Full Stack Development', 'Software Engineering', 'DevOps'],
   current   :'Learning & Working on building real-world projects',
+  interest  :['Full Stack Development', 'Software Engineering', 'DevOps'],
   tech: {
-    frontend:['Tailwind CSS', 'jQuery', 'React.js'],
-    backend :['Python', 'PHP', 'SQL', 'Java']
+    frontend:['Tailwind', 'jQuery', 'React'],
+    backend :['Python', 'PHP', 'SQL']
   }
 };
 ```
