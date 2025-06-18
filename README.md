@@ -1,5 +1,5 @@
 <h1>Hi there! I'm Lyka Martinez</h1>
-<p>Aspiring Developer · Software Engineering · Lifelong Learner · Detail-Oriented</p>
+<p>Aspiring Web Developer · Software Engineering · Lifelong Learner · Detail-Oriented</p>
 
 <!-- Connect with Me -->
 [![Gmail](https://img.shields.io/badge/-Email-c14438?style=flat&logo=gmail&logoColor=white)](mailto:martinezlykamae22@gmail.com)
